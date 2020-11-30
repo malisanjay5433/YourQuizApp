@@ -1,0 +1,58 @@
+[
+    {
+        "empname":"Suresh KC",
+        "department":"Software",
+        "topic" : "iOS"
+    },
+    {
+        "empname":"Rajesh Shrestha",
+        "department":"Hardware",
+        "topic" : "Android"
+    },
+    {
+        "empname":"Mohan Thapa",
+        "department":"Network",
+        "topic" : "Hybrid"
+    },
+    {
+        "empname":"Anusha Khadka",
+        "department":"Software",
+        "topic" : "Kotlin"
+
+    },
+    {
+        "empname":"Ritishma Aryal",
+        "department":"Support",       
+         "topic" : "Dart"
+
+    },
+    {
+        "empname":"Umesh Maharjan",
+        "department":"Software",
+        "topic" : "Flutter"
+
+    },
+    {
+        "empname":"Binod Karki",
+        "department":"Support",
+        "topic" : "iOS"
+
+    },
+    {
+        "empname":"Kamal Lamichhane",
+        "department":"Network",
+        "topic" : "Android"
+
+    },
+    {
+        "empname":"Sujan Gautam",
+        "department":"Hardware",
+        "topic" : "Java"
+
+    },
+    {
+        "empname":"Ashok Tamang",
+        "department":"Software",
+        "topic" : "Python"
+    }
+]
